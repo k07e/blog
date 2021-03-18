@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "index.js",
+  "repository": "https://github.com/k07e/blog",
+  "author": "k07e <sakk7e+dev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "textlint": "^11.8.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+  },
+  "scripts": {
+    "serve": "hugo serve -D"
+  }
+}
